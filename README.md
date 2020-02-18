@@ -1,18 +1,12 @@
 # OSINF_Toolkit #
 
-[![GitHub Build Status](https://github.com/cisagov/OSINF_Toolkit/workflows/build/badge.svg)](https://github.com/cisagov/OSINF_Toolkit/actions)
-[![Coverage Status](https://coveralls.io/repos/github/cisagov/OSINF_Toolkit/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/OSINF_Toolkit?branch=develop)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/cisagov/OSINF_Toolkit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/OSINF_Toolkit/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/cisagov/OSINF_Toolkit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/OSINF_Toolkit/context:python)
-[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/OSINF_Toolkit/develop/badge.svg)](https://snyk.io/test/github/cisagov/OSINF_Toolkit)
+[![GitHub Build Status](https://github.com/KyleEvers/OSINF_Toolkit/workflows/build/badge.svg)](https://github.com/KyleEvers/OSINF_Toolkit/actions)
+[![Coverage Status](https://coveralls.io/repos/github/KyleEvers/OSINF_Toolkit/badge.svg?branch=develop)](https://coveralls.io/github/KyleEvers/OSINF_Toolkit?branch=develop)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/KyleEvers/OSINF_Toolkit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/KyleEvers/OSINF_Toolkit/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/KyleEvers/OSINF_Toolkit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/KyleEvers/OSINF_Toolkit/context:python)
+[![Known Vulnerabilities](https://snyk.io/test/github/KyleEvers/OSINF_Toolkit/develop/badge.svg)](https://snyk.io/test/github/KyleEvers/OSINF_Toolkit)
 
-This is a generic skeleton project that can be used to quickly get a
-new [cisagov](https://github.com/cisagov) Python library GitHub
-project started.  This skeleton project contains [licensing
-information](LICENSE), as well as
-[pre-commit hooks](https://pre-commit.com) and
-[GitHub Actions](https://github.com/features/actions) configurations
-appropriate for a Python library project.
+This project automates some common Open Source Information gathering and recon.
 
 ## Contributing ##
 
