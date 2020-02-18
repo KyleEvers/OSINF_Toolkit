@@ -1,10 +1,10 @@
-# skeleton-python-library #
+# OSINF_Toolkit #
 
-[![GitHub Build Status](https://github.com/cisagov/skeleton-python-library/workflows/build/badge.svg)](https://github.com/cisagov/skeleton-python-library/actions)
-[![Coverage Status](https://coveralls.io/repos/github/cisagov/skeleton-python-library/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/skeleton-python-library?branch=develop)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/cisagov/skeleton-python-library.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/skeleton-python-library/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/cisagov/skeleton-python-library.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/skeleton-python-library/context:python)
-[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/skeleton-python-library/develop/badge.svg)](https://snyk.io/test/github/cisagov/skeleton-python-library)
+[![GitHub Build Status](https://github.com/cisagov/OSINF_Toolkit/workflows/build/badge.svg)](https://github.com/cisagov/OSINF_Toolkit/actions)
+[![Coverage Status](https://coveralls.io/repos/github/cisagov/OSINF_Toolkit/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/OSINF_Toolkit?branch=develop)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/cisagov/OSINF_Toolkit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/OSINF_Toolkit/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/cisagov/OSINF_Toolkit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/OSINF_Toolkit/context:python)
+[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/OSINF_Toolkit/develop/badge.svg)](https://snyk.io/test/github/cisagov/OSINF_Toolkit)
 
 This is a generic skeleton project that can be used to quickly get a
 new [cisagov](https://github.com/cisagov) Python library GitHub
